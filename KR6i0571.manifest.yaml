@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0571/v1
 canonical_location: https://kanripo.org/bkk/KR6i0571/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 圓覺經要解
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0571_000.yaml, hash: 'sha256:8e3d4c4b37d85df31227bb0041f3977f2e2bb18911c948571f3413d368605c03'}
-  - {seq: 1, filename: KR6i0571_001.yaml, hash: 'sha256:4cbda97778696f38041739f6652349f25b1ef1200adf617001211e0405db5692'}
-  - {seq: 2, filename: KR6i0571_002.yaml, hash: 'sha256:fac1be61a60c30a514edad59c8acd26a8cb11364393dc5253250f099e79d598b'}
+  - {seq: 0, filename: KR6i0571_000.yaml, hash: 'sha256:dad87afe0cddebc3ed6c7c1e9d0c00899bf1d0ea0e16348e3fa4e11ae5aca1a5'}
+  - {seq: 1, filename: KR6i0571_001.yaml, hash: 'sha256:7c25cb37e0224e5f5e8dcb61603c8a5b3fca978853c28fc918b329bf1656634c'}
+  - {seq: 2, filename: KR6i0571_002.yaml, hash: 'sha256:8823776421e9c896cfe3928603bbe9ec32b5ff1320f4bf701f1bf19e63255a7f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0571_000.markers.yaml, hash: 'sha256:d0f34f1ced973b9a41a0829abca2f6d5250274bad92605662875150634b2347d'}
-  - {seq: 1, role: markers, filename: assets/KR6i0571_001.markers.yaml, hash: 'sha256:3daf4e039997ff99abb0e427c54534dfcaa100f83a288d7e8c2cb37da3077fed'}
-  - {seq: 2, role: markers, filename: assets/KR6i0571_002.markers.yaml, hash: 'sha256:ea31a8def7fadc6d659b1e622875c4f43ae1f2a0c54dd030cca62a9bbcad46f1'}
+  - {seq: 0, role: markers, filename: assets/KR6i0571_000.markers.yaml, hash: 'sha256:37060feb07b78da70c5b2d9a0f19b538bc7a060d8756976a3fb41d2b740e04b1'}
+  - {seq: 1, role: markers, filename: assets/KR6i0571_001.markers.yaml, hash: 'sha256:224d109d558f3f6925028106617e149496ca0324d9446efbfdf3062dd4ddf9cb'}
+  - {seq: 2, role: markers, filename: assets/KR6i0571_002.markers.yaml, hash: 'sha256:2c4f5b0b96cd3e1998d86e85e03a4ce2c057f3588acf20cd71a0dee27e8035e0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -229,4 +229,7 @@ table_of_contents:
   label: No. 260-B 刻圓覺經要解後序
   type: mulu
   level: 1
-hash: sha256:abf18590766a076e351e83b94dc2ffe020ba111393b0402718d47c873b737a44
+hash: sha256:4ef54093c9c1da10b65bcaf94ae999908b571836bd62f09767c40580b361e7aa
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
