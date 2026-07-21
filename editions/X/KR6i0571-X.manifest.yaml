@@ -19,11 +19,11 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0571_000-X.yaml, hash: 'sha256:8e3d4c4b37d85df31227bb0041f3977f2e2bb18911c948571f3413d368605c03'}
+  - {seq: 0, filename: KR6i0571_000-X.yaml, hash: 'sha256:cb6ba98a949138f1453ac05605afbd5a6d196d8d991c4c90d715b8994b6e13d6'}
   - {seq: 1, filename: KR6i0571_001-X.yaml, hash: 'sha256:4cbda97778696f38041739f6652349f25b1ef1200adf617001211e0405db5692'}
   - {seq: 2, filename: KR6i0571_002-X.yaml, hash: 'sha256:fac1be61a60c30a514edad59c8acd26a8cb11364393dc5253250f099e79d598b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0571_000-X.markers.yaml, hash: 'sha256:f4901511cf42f31534790a81d89133b924e7123f57a516dcfc82defabbf9b6e5'}
+  - {seq: 0, role: markers, filename: assets/KR6i0571_000-X.markers.yaml, hash: 'sha256:7f50a35d8212ad3b1a5539b6225eaa9e40d9915b17d767fca162908287cfff35'}
   - {seq: 1, role: markers, filename: assets/KR6i0571_001-X.markers.yaml, hash: 'sha256:3b2582e9ca4268fafb0398e8b9e08e35a3bb9577e62e4c68bc25764123733183'}
   - {seq: 2, role: markers, filename: assets/KR6i0571_002-X.markers.yaml, hash: 'sha256:362a2e58179442baaaf564da67c2f83077b8571f97c3f7d62cd868e886ec5a23'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0571_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 260-A 大方廣圓覺修多羅了義經要解序
@@ -227,4 +227,4 @@ table_of_contents:
   label: No. 260-B 刻圓覺經要解後序
   type: mulu
   level: 1
-hash: sha256:0d847a9d84982e9a2f9252281855791cd27665d98375d75bf5987c26462071cf
+hash: sha256:d84706f7a0036795fd8e9bf0d5d7300621530eaaafcc718496bf05b5a5fcec3d
